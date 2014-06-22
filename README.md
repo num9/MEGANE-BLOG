@@ -2,3 +2,4 @@ MEGANE-BLOG
 ===========
 
 STUDIO MEGANEブログ
+STUDIO MEGANEのブログです。
